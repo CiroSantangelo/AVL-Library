@@ -1,5 +1,6 @@
 # AVL-Library
 General Program Description
+
 The program implements an AVL tree in C++ using two main classes: AVLNode and AVLTree. An AVL tree is a self-balancing binary search tree that maintains its height as logarithmic relative to the number of nodes, ensuring efficient operations for search, insertion, and deletion.
 
 Program Structure
